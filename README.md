@@ -1,2 +1,2 @@
 # logtash
-Logstash Dockerfile
+Dockerfile with modules installation
